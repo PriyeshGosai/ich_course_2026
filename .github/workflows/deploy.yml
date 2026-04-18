@@ -39,6 +39,8 @@ jobs:
 
     # Build the book
     - name: Build the book
+      env:
+        BASE_URL: /ich_course_2026
       run: |
         jupyter book build --html
 
