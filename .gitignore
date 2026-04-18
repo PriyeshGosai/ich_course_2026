@@ -39,7 +39,6 @@ Thumbs.db
 
 # Files starting with underscore or dot
 .*
-_*
 
 # Claude artifacts
 .claude/
