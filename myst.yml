@@ -5,7 +5,6 @@ project:
     - name: Priyesh Gosai
   copyright: "2026"
   github: https://github.com/PriyeshGosai/ich_course_2026
-  logo: img/ich-ii-bc.png
   toc:
     - file: intro
     - title: "Part 1: Foundations"
@@ -28,7 +27,8 @@ project:
 site:
   template: book-theme
   title: ICH Modelling Power Markets
-  logo: img/ich-ii-bc.png
+  options:
+    logo: img/ich-ii-bc.png
   actions:
     - title: GitHub
       url: https://github.com/PriyeshGosai/ich_course_2026
