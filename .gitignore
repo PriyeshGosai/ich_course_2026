@@ -1,8 +1,6 @@
-# Jupyter Notebook checkpoints
+# Jupyter
 .ipynb_checkpoints/
 *.ipynb_checkpoints/
-
-# Jupyter Book build artifacts
 _build/
 .jupyter_cache/
 
@@ -18,7 +16,6 @@ venv/
 env/
 ENV/
 
-
 # Data files (keep repository light)
 *.geojson
 *.nc
@@ -27,16 +24,8 @@ ENV/
 *.xlsx
 data/
 
-
-# Allow the scenario data
-!network_ZA.xlsx
-
-# Temporary HTML outputs from notebooks
+# Temporary outputs
 *.html
-
-
-# Cleared notebooks
-*cleared.ipynb
 
 # OS files
 .DS_Store
@@ -48,5 +37,12 @@ Thumbs.db
 *.swp
 *.swo
 
+# Files starting with underscore or dot
+.*
+_*
+
 # Claude artifacts
 .claude/
+
+# Exceptions
+!n-*.xlsx

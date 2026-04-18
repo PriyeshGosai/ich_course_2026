@@ -3,10 +3,20 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: 1_getting_started_with_pypsa
-  title: "Part 1: Getting Started with PyPSA"
-- file: 2_building_a_network_using_excel
-  title: "Part 2: Building a Network Using Excel"
-- file: 3_compare_scenarios
-  title: "Part 3: Compare Scenarios"
+parts:
+- caption: "Part 1: Foundations"
+  chapters:
+  - file: 00-preparation
+  - file: 01-getting_started_with_pypsa
+  - file: 02-build-a-pypsa-model
+- caption: "Part 2: Optimisation & Markets"
+  chapters:
+  - file: 03-capacity-expansion-planning
+  - file: 04-simple-market
+  - file: 05-quadratic-prices-and-bids
+  - file: 06-day-ahead-intra-day
+  - file: 07-reserves
+- caption: "Part 3: Regional Applications"
+  chapters:
+  - file: 08-za-market
+  - file: 09-zm-hydro-model

@@ -5,10 +5,10 @@
 
 #######################################################################################
 # Book settings
-title: PyPSA Meets Earth Lab 2025
+title: ICH Modelling Power Markets 
 author: Priyesh Gosai
-copyright: "2025"
-logo: img/pypsa-meets-earth-lab-logo.png
+copyright: "2026"
+logo: img/ich-ii-bc.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -26,7 +26,7 @@ latex:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/PriyeshGosai/pypsa-meets-earth-lab-2025
+  url: https://github.com/PriyeshGosai/ich_course_2026
   branch: main
 
 # Add GitHub buttons to your book
