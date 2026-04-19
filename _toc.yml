@@ -7,7 +7,7 @@ parts:
 - caption: "Part 1: Foundations"
   chapters:
   - file: 00-preparation
-  - file: 01-getting_started_with_pypsa
+  - file: 01-getting-started-with-pypsa
   - file: 02-build-a-pypsa-model
 - caption: "Part 2: Optimisation & Markets"
   chapters:
