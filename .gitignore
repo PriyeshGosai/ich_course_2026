@@ -44,4 +44,5 @@ Thumbs.db
 .claude/
 
 # Exceptions
-!n-*.xlsx
+!n_*.xlsx
+!d_*.xlsx
