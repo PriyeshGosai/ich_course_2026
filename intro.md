@@ -25,24 +25,25 @@ By the end of this course, you will be able to:
 |--------|-------|
 | 0 | Python preparation — variables, loops, functions, cost calculations |
 | 1 | Getting started with PyPSA — networks, components, optimisation |
-| 2 | Building a PyPSA model from an Excel file |
+| 2 | Building a PyPSA programatically |
+| 3 | Building a PyPSA using Excel |
 
 ### Part 2: Optimisation & Markets
 
 | Lesson | Topic |
 |--------|-------|
-| 3 | Capacity expansion planning with CO₂ constraints |
-| 4 | Simple market dispatch and unit commitment |
-| 5 | Quadratic prices and bidding |
-| 6 | Day-ahead and intra-day market simulation |
-| 7 | Reserve requirements |
+| 4 | Capacity expansion planning with CO₂ constraints |
+| 5 | Simple market dispatch and unit commitment |
+| 6 | Quadratic prices and bidding |
+| 7 | Day-ahead and intra-day market simulation |
+| 8 | Reserve requirements |
 
 ### Part 3: Regional Applications
 
 | Lesson | Topic |
 |--------|-------|
-| 8 | South African multi-node network model |
-| 9 | Zambian hydro system and Kariba Dam modelling |
+| 9 | South African multi-node network model |
+| 10 | Zambian hydro system and Kariba Dam modelling |
 
 ---
 
