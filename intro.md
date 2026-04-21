@@ -47,6 +47,10 @@ By the end of this course, you will be able to:
 
 ---
 
+## Download Economic Dispatch/Unit Commitment and Economic Dispatch example 
+
+[![Download Excel File](https://img.shields.io/badge/Download-Excel%20File-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://raw.githubusercontent.com/PriyeshGosai/ich_course_2026/3a7659c3c225c1f20003eee0c26abf60083cecb7/d_00_ed_uced.xlsx)
+
 ## Getting Started
 
 All notebooks are designed to run in **Google Colab** — no local installation required. Click the rocket icon at the top of any lesson page to launch it directly.
