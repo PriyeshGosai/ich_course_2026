@@ -14,10 +14,10 @@ parts:
   chapters:
   - file: 04_capacity_expansion_planning
   - file: 05_simple_market
-  - file: 06_quadratic_prices_and_bids
+  - file: 06_reserves
   - file: 07_day_ahead_intra_day
-  - file: 08_reserves
+
 - caption: "Part 3: Regional Applications"
   chapters:
-  - file: 09_za_market
-  - file: 10_zm_hydro_model
+  - file: 08_za_market
+  - file: 09_zm_hydro_model

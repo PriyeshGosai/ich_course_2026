@@ -34,16 +34,16 @@ By the end of this course, you will be able to:
 |--------|-------|
 | 4 | Capacity expansion planning with CO₂ constraints |
 | 5 | Simple market dispatch and unit commitment |
-| 6 | Quadratic prices and bidding |
-| 7 | Day-ahead and intra-day market simulation |
-| 8 | Reserve requirements |
+| 6 | Day-ahead and intra-day market simulation |
+| 7 | Reserve requirements |
 
 ### Part 3: Regional Applications
 
 | Lesson | Topic |
 |--------|-------|
-| 9 | South African multi-node network model |
-| 10 | Zambian hydro system and Kariba Dam modelling |
+| 8 | South African multi-node network model |
+| 9
+| Zambian hydro system and Kariba Dam modelling |
 
 ---
 
