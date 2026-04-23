@@ -35,6 +35,18 @@ This course was developed for ICH's Integrated Power Markets programme and teach
 
 All notebooks are designed to run in **Google Colab** — no local installation required. Visit the [course website](https://priyeshgosai.github.io/ich_course_2026/) and click the rocket icon on any lesson page to launch it directly in Colab.
 
+### Local Installation
+
+To run the notebooks locally, create the conda environment using the provided `environment.yaml`:
+
+```bash
+conda env create -f environment.yaml
+conda activate ich-course-env
+jupyter notebook
+```
+
+> **Note:** The optimisation notebooks require a Gurobi licence. Free academic licences are available from [gurobi.com](https://www.gurobi.com/academia/academic-program-and-licenses/).
+
 ---
 
 ## Acknowledgements
