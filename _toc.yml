@@ -21,3 +21,4 @@ parts:
   chapters:
   - file: 08_za_market
   - file: 09_zm_hydro_model
+  - file: 10_zm_hydro_model_II

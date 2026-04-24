@@ -44,7 +44,8 @@ By the end of this course, you will be able to:
 | 8 | South African multi-node network model |
 | 9
 | Zambian hydro system and Kariba Dam modelling |
-
+| 10
+| Zambian hydro system and Kariba Dam modelling Part II|
 ---
 
 ## Download Economic Dispatch/Unit Commitment and Economic Dispatch example 
